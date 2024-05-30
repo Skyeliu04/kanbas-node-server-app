@@ -21,12 +21,12 @@
     "Development",
     "CS5610"
   ],
-  "author": "Yichen Sun",
+  "author": "Skye Liu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LAnselet/kanbas-node-server-app/issues"
+    "url": "https://github.com/Skyeliu04/kanbas-node-server-app/issues"
   },
-  "homepage": "https://github.com/LAnselet/kanbas-node-server-app#readme",
+  "homepage": "https://github.com/Skyeliu04/kanbas-node-server-app#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",
